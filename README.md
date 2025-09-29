@@ -81,7 +81,8 @@ ENIG surface finish for solderability.
 </p>
 
 I would like to give a huge shoutout and sincere thanks to **[PCBWay](https://www.pcbway.com/)** for sponsoring the PCB fabrication of this project!
-
-The **build quality, silkscreen clarity, via precision, and copper finish** exceeded expectations. PCBWay’s service was fast, professional, and extremely helpful throughout the production process.
+ 
+With the **fine-pitch FT232RL IC**, pad accuracy and **ENIG finish** were crucial for easy soldering — and PCBWay’s work exceeded expectations.  
+I also tried a **green solder mask** on this project, and the finish quality gave it a professional look far beyond a typical DIY tool.
 
 This project wouldn’t have been possible without their generous support. If you’re looking to manufacture professional-grade PCBs at an affordable price, I highly recommend checking them out.
