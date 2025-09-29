@@ -1,7 +1,11 @@
 # USB to UART TTL Converter (FT232RL)
 
-This repository is about **USB to UART TTL converter** based on the **FT232RL chip**.  
-The module is designed to provide reliable serial communication between a computer and custom embedded designs, including ESP32/STM32/AVR boards.  
+When I started designing my own custom ESP32 and STM32 boards, I quickly realized one thing:
+no project moves forward without a reliable way to program and debug.
+
+I had a few cheap USB-to-UART adapters lying around, but they often gave me unstable connections, messy wiring, or missing signals. So, instead of relying on them, I decided to design my own converter board — something compact, robust, and dependable for daily use.
+
+This board is built around the FT232RL chip and has since become one of the most useful tools on my bench.
 
 ---
 
