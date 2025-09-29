@@ -56,6 +56,19 @@ The breakout exposes the following signals:
 - General USB-to-TTL serial communication  
 
 ---
+## Behind the Build
+
+I built this board because I wanted a reliable programmer and debug tool for my custom ESP32/STM32 designs. Many cheap adapters had poor soldering or unstable connectors, so I decided to make one myself.
+
+- Fabrication Experience:
+The fine-pitch pads of the FT232RL were a challenge, but PCBWay’s tight tolerance and smooth ENIG finish made soldering much easier, even by hand. The black solder mask also gave it a professional look, even though it’s just a small utility board.
+
+- Service Choices:
+2-layer board.
+ENIG surface finish for solderability.
+
+
+---
 
 ## 🎉 Special Thanks to PCBWay
 
