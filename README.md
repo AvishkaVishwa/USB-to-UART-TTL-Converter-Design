@@ -86,4 +86,3 @@ With the **fine-pitch FT232RL IC**, pad accuracy and **ENIG finish** were crucia
 I the finish quality gave it a professional look far beyond a typical DIY tool.
 
 This project wouldn’t have been possible without their generous support. If you’re looking to manufacture professional-grade PCBs at an affordable price, I highly recommend checking them out.
----
